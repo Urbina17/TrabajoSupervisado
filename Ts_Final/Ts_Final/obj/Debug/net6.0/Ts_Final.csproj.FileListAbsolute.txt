@@ -1,0 +1,15 @@
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\bin\Debug\net6.0\Ts_Final.exe
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\bin\Debug\net6.0\Ts_Final.deps.json
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\bin\Debug\net6.0\Ts_Final.runtimeconfig.json
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\bin\Debug\net6.0\Ts_Final.dll
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\bin\Debug\net6.0\Ts_Final.pdb
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\Ts_Final.csproj.AssemblyReference.cache
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\Ts_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\Ts_Final.AssemblyInfoInputs.cache
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\Ts_Final.AssemblyInfo.cs
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\Ts_Final.csproj.CoreCompileInputs.cache
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\Ts_Final.dll
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\refint\Ts_Final.dll
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\Ts_Final.pdb
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\Ts_Final.genruntimeconfig.cache
+C:\Users\Diego Urbina\Documents\URL\Introduccion a la programación\Ts_Final\Ts_Final\obj\Debug\net6.0\ref\Ts_Final.dll
